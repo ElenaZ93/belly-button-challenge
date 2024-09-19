@@ -55,6 +55,12 @@ To replicate or run this project, follow these steps:
 - Be sure to check the browser console (`console.log`) during development to debug and visualize data at different stages.
 - Regular commits are important to track progress and changes throughout the development process.
 
+## Deployment
+This project has been deployed using GitHub Pages. You can view it live [githubpage](https://elenaz93.github.io/belly-button-challenge/).
+
+### App Successfully Deployed to GitHub Pages
+The app is now fully functional and hosted on GitHub Pages. You can explore the interactive dashboard, view the top 10 OTUs, bubble charts, and demographic information dynamically by selecting a sample from the dropdown menu.
+
 ## Resources
 - [Plotly.js Documentation](https://plotly.com/javascript/)
 - Hulcr, J. et al. (2012) A Jungle in There: Bacteria in Belly Buttons are Highly Diverse, but Predictable. Retrieved from: http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/Links to an external site.
